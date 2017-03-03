@@ -6,21 +6,21 @@ repo.versions:
     "0-latest": "test_branch"
     "0-stable": "0.0.2"
 
-0.0.0.repositories:
+tag_4_root.repositories:
     apache-mynewt-core:
         type: github
         vers: 0.7.9
         user: apache
         repo: incubator-mynewt-core
 
-0.0.1.repositories:
+tag_4_further.repositories:
     apache-mynewt-core:
         type: github
         vers: 0.8.0
         user: apache
         repo: incubator-mynewt-core
 
-0.0.2.repositories:
+yet_another.repositories:
     apache-mynewt-core:
         type: github
         vers: 0.9.9
