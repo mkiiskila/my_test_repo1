@@ -1,9 +1,10 @@
 repo.name: my_test_repo1
 repo.versions:
     "0.0.0": "tag_4_root"
-    "0.1.0": "test_branch"
+    "0.0.1": "tag_4_further"
+    "0.0.2": "yet_another"
     "0-latest": "test_branch"
-    "0-stable": "master"
+    "0-stable": "0.0.2"
 
 0-stable.repositories:
     apache-mynewt-core:
