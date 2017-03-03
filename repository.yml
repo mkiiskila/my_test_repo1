@@ -15,7 +15,7 @@ repo.versions:
 0-latest.repositories:
     apache-mynewt-core:
         type: github
-        vers: 0-latest
+        vers: 0.9.9
         user: apache
         repo: incubator-mynewt-core
 
