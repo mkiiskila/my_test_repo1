@@ -16,7 +16,7 @@ tag_4_root.repositories:
 tag_4_further.repositories:
     apache-mynewt-core:
         type: github
-        vers: 0.8.0
+        vers: b7c8714b865bfa022fc174ff9adb84f2409de32f-tag
         user: apache
         repo: incubator-mynewt-core
 
